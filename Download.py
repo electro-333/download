@@ -15,5 +15,5 @@ while True:
 	try:
 		stream[stre].download()
 	except:
-		print("there is a probleme with stream or link")
-		
+		print("there is a probleme with quality or link")
+	
