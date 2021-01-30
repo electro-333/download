@@ -4,7 +4,7 @@
 
 
 from pafy import new
-import os
+
 while True:
 	link = input("enter link of video >> ")
 	video = new(link)
